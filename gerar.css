@@ -1,0 +1,22 @@
+
+.box{
+ width: 500px;
+ height: 100px;
+ padding: 20px; 
+ background-color: rgb(35, 195, 223);
+font-size: 15pt;
+color: black;
+border-radius:15px 15px
+}
+.box p{
+text-align: justify;
+font-family: georgia;
+color: green;
+font-size: 10pt
+}
+body{
+background-color: rgb(70, 60, 60);
+text-align: center;
+
+ }
+

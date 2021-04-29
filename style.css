@@ -1,0 +1,25 @@
+ body{
+background-color:  rgb(70, 60, 60);
+text-align: center;
+ }
+
+ #box{
+ margin: 50px auto;
+padding: 40px;
+width: 25%;
+height: 715px;
+background-color: rgb(35, 195, 223);
+text-align: center;
+ }
+
+h2{
+    color: black;
+}
+
+img{
+    text-align: center;
+    width: 200px;
+    height: 180px;
+}
+
+
